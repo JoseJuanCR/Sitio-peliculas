@@ -7,14 +7,14 @@ const Tarjeta = styled.div`
   justify-content: space-evenly;
   align-items: center;
   width: 30rem;
-  border: 2px solid var(--section);
+  border: 3px solid var(--section);
   height: 400px;
   padding: 25px;
   border-radius: 10px;
   font-size: 2rem;
   margin: 5px;
   img {
-    max-width: 180px;
+    max-width: 150px;
   }
 `;
 
